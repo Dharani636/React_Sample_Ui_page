@@ -9,4 +9,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  base: "/Dharani636/React_Sample_Ui_page/"
 })
